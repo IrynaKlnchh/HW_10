@@ -1,0 +1,1005 @@
+    1  touch Cartfile
+    2  carthage update --platform iOS
+    3  carthage update --platform iOS
+    4  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+    5  pod install
+    6  pod install
+    7  pod install
+    8  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+    9  pod install
+   10  cd /Users/macbook15pro2015/Desktop/Mysterium\ Network 
+   11  touch Podfile
+   12  pod install
+   13  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   14  pod install
+   15  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   16  touch Cartfile
+   17  carthage update --platform iOS
+   18  cd /Users/macbook15pro2015/Desktop/TestFramework 
+   19  touch Cartfile
+   20  carthage update --platform iOS
+   21  cd /Users/macbook15pro2015/Desktop/TestFramework 
+   22  carthage update --platform iOS
+   23  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   24  pod install
+   25  git lfs install
+   26  git lfs install
+   27  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   28  git lfs install
+   29  ls
+   30  brew install git-lfs
+   31  git lfs install
+   32  git lfs track '*.framework'
+   33  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   34  git lfs track '*.framework'
+   35  git lfs ls-files
+   36  git add .gitattributes
+   37  git add "*.framework"
+   38  git lfs track
+   39  git add .gitattributes
+   40  git add "*.framework"
+   41  git add '*.framework'
+   42  git status
+   43  git lfs ls-files
+   44  git lfs track
+   45  git lfs ls-files
+   46  git lfs ls-files
+   47  git lfs ls-files
+   48  git lfs ls-files
+   49  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   50  git add "*.framework"
+   51  git lfs track
+   52  git add "*.framework"
+   53  git lfs track '*.framework'
+   54  git lfs track
+   55  git lfs track
+   56  git lfs ls-files
+   57  git add .gitattributes
+   58  git add '*.framework'
+   59  git add '*.framework'
+   60  git add '*.framework'
+   61  git add 'Mysterium.framework'
+   62  git status
+   63  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   64  git lfs install
+   65  git lfs track '*.framework'
+   66  git lfs track
+   67  git lfs ls-files
+   68  git add .gitattributes
+   69  git add '*.framework'
+   70  git add '*.framework'
+   71  git add '*.framework'
+   72  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   73  git add '*.framework'
+   74  git lfs track Mysterium
+   75  git add .gitattributes
+   76  git lfs ls-files
+   77  git lfs track
+   78  git status
+   79  git add Mysterium
+   80  git add Mysterium.framework
+   81  git status
+   82  cd /Users/macbook15pro2015/Downloads/VPN-master 
+   83  pod install
+   84  cd /Users/macbook15pro2015/Desktop/MysteriumNetwork 
+   85  pod install
+   86  cd/Users/macbook15pro2015/Downloads/SimpleVPN-master 
+   87  cd /Users/macbook15pro2015/Downloads/simple-vpn-demo-master 
+   88  gcc -o vpn.c
+   89  gcc -o vpn vpn.c
+   90  cd /Users/macbook15pro2015/Desktop/MysteriumNetworkVPN 
+   91  git lfs track '*.framework'
+   92  git lfs track
+   93  git add .gitattributes
+   94  git add "*.bin"
+   95  git add Mysterium.framework
+   96  git add "*.framework"
+   97  git status
+   98  git status
+   99  git add "*.framework"
+  100  git lfs track
+  101  git add "*.framework"
+  102  git add Mysterium "*.framework"
+  103  git add Mysterium
+  104  git add Mysterium.framework
+  105  git status
+  106  git lfs ls-files
+  107  cd /Users/macbook15pro2015/Desktop/MysteriumNetworkVPN 
+  108  git lfs track '*.framework'
+  109  git lfs track Mysterium
+  110  git lfs track
+  111  git lfs ls-files
+  112  git status
+  113  java -version
+  114  java -version
+  115  java -version
+  116  cd /Users/macbook15pro2015/Desktop/Fatura 
+  117  pod install
+  118  pod install
+  119  pod install
+  120  pod install
+  121  cd /Users/macbook15pro2015/Desktop/Fatura 
+  122  pod install
+  123  cd /Users/macbook15pro2015/Desktop/Fatura 
+  124  pod install
+  125  cd /Users/macbook15pro2015/Desktop/Fatura 
+  126  ./graph
+  127  ./apollo
+  128  ls
+  129  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  130  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  131  ./apollo-codegen
+  132  .apollo-codegen
+  133  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  134  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  135  ./apollo-codegen.sh
+  136  npm install apollo-server graphql
+  137  cd /Users/macbook15pro2015/Desktop/Fatura 
+  138  pod install
+  139  npm install -g apollo
+  140  cd /Users/macbook15pro2015/Desktop/Fatura 
+  141  ./apollo-codegen.sh
+  142  npm install -D apollo
+  143  ./apollo-codegen.sh
+  144  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  145  pod isntall
+  146  pod install
+  147  cd/Users/macbook15pro2015/Desktop/Fatura 
+  148  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  149  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  150  cd /Users/macbook15pro2015/Desktop/Fatura 
+  151  pod repo update
+  152  pod install
+  153  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  154  brew install node npm
+  155  pod install
+  156  cd /Users/macbook15pro2015/Desktop/Fatura 
+  157  pod install
+  158  pod install
+  159  pod install
+  160  pod install
+  161  pod repo update
+  162  pod install
+  163  pod install
+  164  cd /Users/macbook15pro2015/Desktop/Fatura 
+  165  pod install
+  166  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  167  /Users/macbook15pro2015/Desktop/Fatura/Pods/Apollo/scripts/run-bundled-codegen.sh 
+  168  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  169  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  170  brew install apollo-cli
+  171  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  172  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  173  open
+  174  open .
+  175  apollo -v
+  176  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  177  open.
+  178  open .
+  179  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  180  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  181  open .
+  182  cd /Users/macbook15pro2015/Desktop/Fatura 
+  183  apollo schema:download --endpoint=https://api.staging.fatura-pos.com/api/graphql ./revenu/Network/GraphQL/schema.json
+  184  open .
+  185  apollo codegen:generate --passthroughCustomScalars API.swift --target swift
+  186  cd /Users/macbook15pro2015/Desktop/Fatura 
+  187  pod install
+  188  pod install
+  189  pod install
+  190  pod install
+  191  pod install
+  192  cd /Users/macbook15pro2015/Desktop/Fatura 
+  193  pod install
+  194  pod install
+  195  cd /Users/macbook15pro2015/Desktop/Fatura 
+  196  pod install
+  197  pod install
+  198  cd /Users/macbook15pro2015/Desktop/Fatura 
+  199  pod install
+  200  cd /Users/macbook15pro2015/Desktop/Fatura 
+  201  pod install
+  202  cd /Users/macbook15pro2015/Desktop/Fatura 
+  203  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  204  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  205  apollo codegen:generate --passthroughCustomScalars API.swift --target swift
+  206  cd /Users/macbook15pro2015/Desktop/Fatura 
+  207  apollo codegen:generate --passthroughCustomScalars API.swift --target swift
+  208  apollo codegen:generate --passthroughCustomScalars API.swift --target swift
+  209  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  210  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  211  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  212  cd /Users/macbook15pro2015/Desktop/Fatura 
+  213  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  214  cd /Users/macbook15pro2015/Desktop/Fatura 
+  215  /Users/macbook15pro2015/Desktop/Fatura/Pods/Apollo/scripts/run-bundled-codegen.sh 
+  216  cd /Users/macbook15pro2015/Desktop/Fatura 
+  217  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  218  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  219  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  220  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  221  cd /Users/macbook15pro2015/Desktop/Fatura 
+  222  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  223  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  224  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  225  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  226  cd /Users/macbook15pro2015/Desktop/Fatura 
+  227  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  228  cd /Users/macbook15pro2015/Desktop/Fatura 
+  229  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  230  cd /Users/macbook15pro2015/Desktop/Fatura 
+  231  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  232  cd /Users/macbook15pro2015/Desktop/Fatura 
+  233  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  234  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  235  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  236  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  237  cd /Users/macbook15pro2015/Desktop/Fatura 
+  238  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  239  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  240  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  241  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  242  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  243  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  244  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  245  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  246  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  247  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  248  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  249  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  250  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  251  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  252  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  253  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  254  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  255  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  256  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  257  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  258  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  259  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  260  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  261  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  262  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  263  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  264  cd /Users/macbook15pro2015/Desktop/Fatura 
+  265  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  266  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  267  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  268  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  269  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  270  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  271  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  272  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  273  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  274  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  275  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  276  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  277  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  278  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  279  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  280  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  281  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  282  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  283  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  284  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  285  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  286  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  287  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  288  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  289  cd /Users/macbook15pro2015/Desktop/Fatura 
+  290  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  291  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  292  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  293  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  294  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  295  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  296  cd /Users/macbook15pro2015/Desktop/Fatura 
+  297  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  298  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  299  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  300  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  301  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  302  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  303  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  304  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  305  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  306  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  307  cd /Users/macbook15pro2015/Desktop/Fatura 
+  308  pod update MaterialComponents
+  309  cd /Users/macbook15pro2015/Desktop/Fatura 
+  310  pod update MaterialComponents
+  311  pod update MaterialComponents
+  312  install cocoapods
+  313  sudo gem install cocoapods
+  314  cd /Users/macbook15pro2015/Desktop/Fatura 
+  315  pod update MaterialComponents
+  316  pod repo remove trunk
+  317  pod update MaterialComponents
+  318  pod update MaterialComponents
+  319  pod install
+  320  pod update MaterialComponents
+  321  pod update MaterialComponents
+  322  pod update MaterialComponents
+  323  cd /Users/macbook15pro2015/Desktop/Fatura 
+  324  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  325  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  326  pod install --no-repo-update --verbose
+  327  cd /Users/macbook15pro2015/Desktop/Fatura 
+  328  pod update Firebase/Messaging
+  329  pod update Firebase/Messaging
+  330  cd /Users/macbook15pro2015/Desktop/Fatura 
+  331  pod update Firebase
+  332  pod update Firebase/Messaging
+  333  cd /Users/macbook15pro2015/Desktop/Fatura 
+  334  pod install
+  335  pod install
+  336  cd /Users/macbook15pro2015/Desktop/Fatura 
+  337  pod install
+  338  pod install
+  339  cd /Users/macbook15pro2015/Desktop/Fatura 
+  340  pod install
+  341  cd /Users/macbook15pro2015/Desktop/Fatura 
+  342  pod install
+  343  pod install
+  344  cd /Users/macbook15pro2015/Desktop/Fatura 
+  345  pod install
+  346  pod update Firebase/Messaging
+  347  cd /Users/macbook15pro2015/Desktop/Fatura 
+  348  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  349  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  350  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  351  cd /Users/macbook15pro2015/Desktop/Fatura 
+  352  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  353  cd /Users/macbook15pro2015/Desktop/Fatura 
+  354  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  355  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  356  pod update Apollo
+  357  pod install
+  358  pod install
+  359  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  360  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  361  pod install
+  362  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  363  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  364  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  365  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  366  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  367  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  368  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  369  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  370  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  371  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  372  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  373  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  374  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  375  /Users/macbook15pro2015/Desktop/Fatura/apollo-codegen.sh 
+  376  cd /Users/macbook15pro2015/Desktop/Pause 
+  377  pod install
+  378  cd /Users/macbook15pro2015/Desktop/Pause 
+  379  pod install
+  380  pod install
+  381  pod install
+  382  pod update Apollo
+  383  cd /Users/macbook15pro2015/Desktop/Pause 
+  384  pod update SwiftyStoreKit
+  385  cd /Users/macbook15pro2015/Desktop/Pause 
+  386  pod install
+  387  pod update DifferenceKit
+  388  pod install
+  389  cd /Users/macbook15pro2015/Desktop/Pause 
+  390  pod install
+  391  pod update IQKeyboardManagerSwift
+  392  cd /Users/macbook15pro2015/Desktop/Pause 
+  393  pod update IQKeyboardManagerSwift
+  394  cd /Users/macbook15pro2015/Desktop/Pause 
+  395  pod install
+  396  cd /Users/macbook15pro2015/Desktop/Pause 
+  397  pod update IQKeyboardManagerSwift
+  398  pod update IQKeyboardManagerSwift
+  399  cd /Users/macbook15pro2015/Desktop/Pause 
+  400  pod update IQKeyboardManagerSwift
+  401  cd /Users/macbook15pro2015/Desktop/Pause 
+  402  pod install
+  403  cd /Users/macbook15pro2015/Desktop/Pause 
+  404  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  405  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  406  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  407  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  408  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  409  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  410  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  411  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  412  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  413  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  414  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  415  cd /Users/macbook15pro2015/Desktop/Pause 
+  416  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  417  cd /Users/macbook15pro2015/Desktop/Pause 
+  418  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  419  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  420  cd /Users/macbook15pro2015/Desktop/Pause 
+  421  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  422  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  423  cd /Users/macbook15pro2015/Desktop/Pause 
+  424  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  425  cd /Users/macbook15pro2015/Desktop/Pause 
+  426  pod install
+  427  pod install
+  428  pod install
+  429  pod install
+  430  cd /Users/macbook15pro2015/Desktop/Pause 
+  431  pod install
+  432  cd /Users/macbook15pro2015/Desktop/Pause 
+  433  pod install
+  434  cd /Users/macbook15pro2015/Desktop/Fatura
+  435  pod install
+  436  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  437  pod install
+  438  cd /Users/macbook15pro2015/Desktop/Pause 
+  439  pod install
+  440  cd /Users/macbook15pro2015/Desktop/Pause 
+  441  pod install
+  442  cd /Users/macbook15pro2015/Desktop/Pause 
+  443  pod install
+  444  cd /Users/macbook15pro2015/Desktop/Pause 
+  445  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  446  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  447  pod install
+  448  cd /Users/macbook15pro2015/Desktop/Pause 
+  449  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  450  pod install
+  451  cd /Users/macbook15pro2015/Desktop/Pause 
+  452  pod install
+  453  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  454  pod install
+  455  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  456  pod install
+  457  cd /Users/macbook15pro2015/Desktop/Pause 
+  458  pod install
+  459  cd /Users/macbook15pro2015/Desktop/Pause 
+  460  pod install
+  461  cd /Users/macbook15pro2015/Desktop/Pause 
+  462  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  463  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  464  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  465  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  466  cd /Users/macbook15pro2015/Desktop/Pause 
+  467  pod install
+  468  pod install
+  469  cd /Users/macbook15pro2015/Desktop/Pause 
+  470  pod install
+  471  ls
+  472  gem pristine --all
+  473  sudo gem pristine --all
+  474  cd /Users/macbook15pro2015/Desktop/Pause 
+  475  pod install
+  476  sudo gem pristine --all
+  477  gem pristine --all
+  478  bundle install
+  479  bundle install
+  480  cd /Users/macbook15pro2015/Desktop/Pause 
+  481  pod install
+  482  cd /Users/macbook15pro2015/Desktop/Pause 
+  483  pod install
+  484  pod install
+  485  cd /Users/macbook15pro2015/Desktop/Pause 
+  486  pod install
+  487  cd /Users/macbook15pro2015/Desktop/Pause 
+  488  pod install
+  489  pod install
+  490  pod install
+  491  cd /Users/macbook15pro2015/Desktop/Pause 
+  492  pod install
+  493  cd /Users/macbook15pro2015/Desktop/Pause 
+  494  pod install
+  495  cd /Users/macbook15pro2015/Desktop/Pause 
+  496  pod install
+  497  cd /Users/macbook15pro2015/Desktop/Pause 
+  498  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  499  pod install
+  500  pod install
+  501  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  502  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  503  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  504  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  505  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  506  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  507  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  508  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  509  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  510  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  511  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  512  pod install
+  513  cd /Users/macbook15pro2015/Desktop/Pause 
+  514  pod install
+  515  cd /Users/macbook15pro2015/Desktop/Pause 
+  516  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  517  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  518  cd /Users/macbook15pro2015/Desktop/Pause 
+  519  pod install
+  520  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  521  pod install
+  522  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  523  pod install
+  524  pod install
+  525  pod install
+  526  cd /Users/macbook15pro2015/Desktop/Pause 
+  527  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  528  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  529  pod install
+  530  pod install
+  531  cd /Users/macbook15pro2015/Desktop/Ajuma 
+  532  pod install
+  533  cd /Users/macbook15pro2015/Desktop/Pause 
+  534  pod install
+  535  cd /Users/macbook15pro2015/Desktop/Pause 
+  536  pod install
+  537  cd /Users/macbook15pro2015/Desktop/Pause 
+  538  pod install
+  539  cd /Users/macbook15pro2015/Desktop/Pause 
+  540  pod install
+  541  cd /Users/macbook15pro2015/Desktop/Pause 
+  542  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  543  cd /Users/macbook15pro2015/Desktop/Pause 
+  544  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  545  cd /Users/macbook15pro2015/Desktop/Pause 
+  546  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  547  pod install
+  548  cd /Users/macbook15pro2015/Desktop/Pause 
+  549  pod install
+  550  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  551  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  552  pod install
+  553  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  554  pod install
+  555  cd /Users/macbook15pro2015/Desktop/Pause 
+  556  pod install
+  557  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  558  cd /Users/macbook15pro2015/Desktop/Pause 
+  559  pod install
+  560  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  561  pod install
+  562  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  563  cd /Users/macbook15pro2015/Desktop/Pause 
+  564  pod install
+  565  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  566  cd /Users/macbook15pro2015/Desktop/Pause 
+  567  pod install
+  568  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  569  cd /Users/macbook15pro2015/Desktop/Pause 
+  570  pod install
+  571  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  572  cd /Users/macbook15pro2015/Desktop/Pause 
+  573  pod install
+  574  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  575  pod install
+  576  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  577  cd /Users/macbook15pro2015/Desktop/Pause 
+  578  pod install
+  579  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  580  cd /Users/macbook15pro2015/Desktop/Pause 
+  581  pod install
+  582  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  583  pod install
+  584  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  585  pod install
+  586  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  587  pod install
+  588  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  589  pod install
+  590  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  591  pod install
+  592  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  593  pod install
+  594  pod install
+  595  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  596  cd /Users/macbook15pro2015/Desktop/Pause 
+  597  pod install
+  598  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  599  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  600  cd /Users/macbook15pro2015/Desktop/Pause 
+  601  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  602  cd /Users/macbook15pro2015/Desktop/Pause 
+  603  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  604  cd /Users/macbook15pro2015/Desktop/Pause 
+  605  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  606  cd /Users/macbook15pro2015/Desktop/Pause 
+  607  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  608  cd /Users/macbook15pro2015/Desktop/Pause 
+  609  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  610  cd /Users/macbook15pro2015/Desktop/Pause 
+  611  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  612  cd /Users/macbook15pro2015/Desktop/Pause 
+  613  pod install
+  614  pod install
+  615  cd /Users/macbook15pro2015/Desktop/Pause 
+  616  pod install
+  617  pod install
+  618  pod install
+  619  pod install
+  620  pod install
+  621  pod install
+  622  pod install
+  623  cd /Users/macbook15pro2015/Desktop/Pause 
+  624  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  625  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  626  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  627  cd /Users/macbook15pro2015/Desktop/Pause 
+  628  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  629  cd /Users/macbook15pro2015/Desktop/Pause 
+  630  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  631  cd /Users/macbook15pro2015/Desktop/Pause 
+  632  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  633  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  634  cd /Users/macbook15pro2015/Desktop/Pause 
+  635  зщв штіефдд
+  636  pod install
+  637  cd /Users/macbook15pro2015/Desktop/Pause 
+  638  pod install
+  639  cd /Users/macbook15pro2015/Desktop/Pause 
+  640  pod install
+  641  cd /Users/macbook15pro2015/Desktop/Pause 
+  642  pod install
+  643  pod install
+  644  pod install
+  645  cd /Users/macbook15pro2015/Desktop/Pause 
+  646  pod install
+  647  cd /Users/macbook15pro2015/Desktop/Pause 
+  648  pod install
+  649  cd /Users/macbook15pro2015/Desktop/Pause 
+  650  pod install
+  651  cd /Users/macbook15pro2015/Desktop/Pause 
+  652  pod install
+  653  cd /Users/macbook15pro2015/Desktop/Pause 
+  654  pod install
+  655  cd /Users/macbook15pro2015/Desktop/Pause 
+  656  pod install
+  657  cd /Users/macbook15pro2015/Desktop/Pause 
+  658  pod update Localize-Swift
+  659  cd /Users/macbook15pro2015/Desktop/Pause 
+  660  pod install
+  661  cd /Users/macbook15pro2015/Desktop/Pause 
+  662  pod install
+  663  cd /Users/macbook15pro2015/Desktop/Pause 
+  664  pod install
+  665  cd /Users/macbook15pro2015/Desktop/Pause 
+  666  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  667  cd /Users/macbook15pro2015/Desktop/Pause 
+  668  pod install
+  669  cd /Users/macbook15pro2015/Desktop/Pause 
+  670  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  671  cd /Users/macbook15pro2015/Desktop/Pause 
+  672  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  673  cd /Users/macbook15pro2015/Desktop/Pause 
+  674  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  675  cd /Users/macbook15pro2015/Desktop/Pause 
+  676  cd /Users/macbook15pro2015/Desktop/Pause 
+  677  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  678  cd /Users/macbook15pro2015/Desktop/Pause 
+  679  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  680  cd /Users/macbook15pro2015/Desktop/Pause 
+  681  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  682  cd /Users/macbook15pro2015/Desktop/Pause 
+  683  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  684  cd /Users/macbook15pro2015/Desktop/Pause 
+  685  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  686  cd /Users/macbook15pro2015/Desktop/Pause 
+  687  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  688  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  689  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  690  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  691  cd /Users/macbook15pro2015/Desktop/Pause 
+  692  pod install
+  693  cd /Users/macbook15pro2015/Desktop/Pause 
+  694  pod install
+  695  cd /Users/macbook15pro2015/Desktop/Pause 
+  696  pod install
+  697  cd /Users/macbook15pro2015/Downloads/proton-main/ExampleApp 
+  698  pod install
+  699  cd /Users/macbook15pro2015/Desktop/Pause 
+  700  pod install
+  701  pod install
+  702  pod install
+  703  cd /Users/macbook15pro2015/Desktop/Pause 
+  704  pod install
+  705  cd /Users/macbook15pro2015/Desktop/Pause 
+  706  pod install
+  707  cd /Users/macbook15pro2015/Desktop/Pause 
+  708  pod install
+  709  cd /Users/macbook15pro2015/Desktop/Pause 
+  710  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  711  cd /Users/macbook15pro2015/Desktop/Pause 
+  712  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  713  cd /Users/macbook15pro2015/Desktop/Pause 
+  714  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  715  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  716  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  717  cd /Users/macbook15pro2015/Desktop/Pause 
+  718  cd /Users/macbook15pro2015/Desktop/Pause 
+  719  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  720  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  721  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  722  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  723  ssh-keygen -t rsa
+  724  cd desktop
+  725  ls
+  726  ssh-keygen -t rsa
+  727  pbcopy < ~/.ssh/id_rsa.pub
+  728  ssh-keygen -t ed25519 -C "a.boboshko@geniusee.com"
+  729  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+  730  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  731  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  732  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  733  pod init
+  734  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  735  pod init
+  736  pod install
+  737  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  738  pod install
+  739  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  740  pod install
+  741  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  742  pod install
+  743  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  744  pod install
+  745  cd /Users/macbook15pro2015/Desktop/CoctailClub 
+  746  pod install
+  747  pod install
+  748  pod deintegrate
+  749  pod install
+  750  pod install
+  751  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  752  pod install
+  753  pod deintegrate
+  754  pod install
+  755  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  756  pod deintegrate
+  757  pod install
+  758  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  759  pod deintegrate
+  760  pod install
+  761  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  762  cd /Users/macbook15pro2015/Desktop/Pause 
+  763  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  764  cd /Users/macbook15pro2015/Desktop/Pause 
+  765  pod install
+  766  cd /Users/macbook15pro2015/Desktop/Pause 
+  767  pod install
+  768  pod deintegrate
+  769  pod install
+  770  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  771  pod install
+  772  pod deintegrate
+  773  pod install
+  774  pod deintegrate
+  775  pod install
+  776  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  777  pod install
+  778  pod deintegrate
+  779  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  780  pod deintegrate
+  781  pod deintegrate
+  782  pod install
+  783  pod deintegrate
+  784  pod install
+  785  sudo fdsetup status
+  786  sudo fdesetup status
+  787  sudo fdesetup enable
+  788  sudo fdesetup disable
+  789  sudo softwareupdate -i -a -R
+  790  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  791  pod install
+  792  pod install
+  793  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  794  pod install
+  795  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  796  pod install
+  797  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  798  pod install
+  799  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  800  pod install
+  801  pod install
+  802  cd /Users/macbook15pro2015/Desktop/Cocktail\ Club 
+  803  pod install
+  804  cd /Users/macbook15pro2015/Desktop/Pause 
+  805  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  806  cd /Users/macbook15pro2015/Desktop/Pause 
+  807  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  808  cd /Users/macbook15pro2015/Desktop/Pause 
+  809  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  810  cd /Users/macbook15pro2015/Desktop/Pause 
+  811  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  812  cd /Users/macbook15pro2015/Desktop/Pause 
+  813  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  814  cd /Users/macbook15pro2015/Desktop/Pause 
+  815  /Users/macbook15pro2015/Desktop/Pause/apollo-codegen.sh 
+  816  cd /Users/macbook15pro2015/Desktop/DemoAppRPPG/rPPG 
+  817  pod install
+  818  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  819  brew install switlint
+  820  brew install switlint
+  821  brew install swiftlint
+  822  brew install swiftlint
+  823  brew info swiftlint
+  824  sudo nano /etc/hosts
+  825  sudo nano /etc/hosts
+  826  sudo nano /etc/hosts
+  827  sudo nano /etc/hosts
+  828  sudo nano /etc/hosts
+  829  npm install -g @aws-amplify/cli
+  830  python -m ensurepip --upgrade
+  831  sudo python -m ensurepip --upgrade
+  832  pip install awscli
+  833  --upgrade pip
+  834  pip install --upgrade pip
+  835  sudo pip install --upgrade pip
+  836  pip install awscli
+  837  sudo pip install awscli
+  838  aws configure
+  839  sudo pip install awscli
+  840  amplify -v
+  841  npm install -g @aws-amplify/cli
+  842  clear
+  843  cd
+  844  vim .zprofile
+  845  amplify help
+  846  amplify -v
+  847  sudo curl -sL https://aws-amplify.github.io/amplify-cli/install | bash && $SHELL
+  848  sudo pip install awscli
+  849  pip install awscli
+  850  brew install jq
+  851  curl -sL https://aws-amplify.github.io/amplify-cli/install | bash && $SHELL
+  852  amplify -v
+  853  amplify help
+  854  amplify help
+  855  sudo gem install cocoapods -v 1.11.0
+  856  sudo gem update cocoapods -v 1.11.2
+  857  sudo gem install cocoapods -v 1.11.2
+  858  gem install cocoapods -v 1.11.2
+  859  sudo gem install cocoapods -v 1.11.2
+  860  cocoapods -v
+  861  /Applications/Harry\ Potter.app/Contents/MacOS/WineskinLauncher ; exit;
+  862  /Applications/Harry\ Potter.app/Contents/MacOS/WineskinX11 ; exit;
+  863  /Applications/Harry\ Potter.app/Contents/Resources/WineskinStartupScript ; exit;
+  864  /Applications/Harry\ Potter.app/Contents —\ копия/MacOS/WineskinLauncher ; exit;
+  865  /Applications/Harry\ Potter.app/Contents —\ копия/MacOS/WineskinX11 ; exit;
+  866  /Volumes/Harry\ Potter\ and\ the\ Philosopher\'s\ Stone/Harry\ Potter.app/Contents/MacOS/WineskinLauncher ; exit;
+  867  /Volumes/Harry\ Potter\ and\ the\ Philosopher\'s\ Stone/Harry\ Potter.app/Contents/MacOS/WineskinX11 ; exit;
+  868  brew tap homebrew/cask-versions
+  869  cd
+  870  brew tap homebrew/cask-versions
+  871  brew install git
+  872  brew install git
+  873  git --version
+  874  man ls
+  875  ls
+  876  cd Desktop
+  877  ls
+  878  cd ~
+  879  cd /
+  880  cd Desktop
+  881  cd ~
+  882  pwd
+  883  cd Desktop
+  884  cd Data
+  885  pwd
+  886  mkdir Test1
+  887  ls
+  888  sd Lesson32
+  889  mkdir TestF1
+  890  sd Lesson 32
+  891  sd Lesson32
+  892  sd Desktop
+  893  touch file1.txt
+  894  cd Desktop
+  895  ls
+  896  clearn
+  897  cd Desktop
+  898  sd Lesson32
+  899  ls
+  900  sd Lesson32
+  901  crear
+  902  cd Lesson32
+  903  pwd
+  904  mkdir Lesson32
+  905  cd Lesson32
+  906  touch file.txt
+  907  cp file.txt 
+  908  cp file.txt Test1
+  909  cd Test1
+  910  cd Test1
+  911  rm file.txt
+  912  cd ..
+  913  cd Lesson32
+  914  rmdir Test1
+  915  cd ..
+  916  ping google.com
+  917  date
+  918  system profiler
+  919  system_profiler
+  920  clear
+  921  ipconfig
+  922  ifconfig
+  923  clear
+  924  cd Desktop
+  925  cd Lesson32
+  926  chmod 777 file.txt
+  927  chmod 777 file1.txt
+  928  git config --global user.name "Iryna Kulinich"
+  929   \n \t\ngit config --global user.email iryna.klnchh@gmail.com
+  930  cd Lesson32
+  931  git clone https://github.com/IrynaKlnchh/Lesson32.git
+  932  git status
+  933  ls
+  934  cd Lesson32
+  935  ls
+  936  git status
+  937  touch new.txt
+  938  git status
+  939  git add new.txt
+  940  git status
+  941  git commit -m "New.txt file added"
+  942  git status
+  943  git checkout -b new_branch
+  944  git branch
+  945  nano new.txt
+  946  git status
+  947  git add new.txt
+  948  git status
+  949  git commit -m "New.txt updated"
+  950  git checkout main
+  951  git branch
+  952  git merge new_branch
+  953  git status
+  954  git branch
+  955  git push
+  956  cd /Users/macbook15pro2015/Desktop/HW 
+  957  history -c
+  958  cd HW
+  959  cd Desktop
+  960  cd HW
+  961  history -c && rm ~
+  962  git config --global user.name "Iryna Kulinich"
+  963  git config --global user.email irina.klnchh@gmail.com
+  964  git clone https://github.com/IrynaKlnchh/HW_10.git
+  965  cd HW_10
+  966  touch text_ignore.txt
+  967  vim .gitignore
+  968  cd Desktop
+  969  cd HW
+  970  cd HW_10
+  971  vim .gitignore
+  972  nano .gitignore
+  973  cd Desktop
+  974  cd HW
+  975  cd HW_10
+  976  nano .gitignore
+  977  git status
+  978  git add .
+  979  git status
+  980  git commit -m "Task1"
+  981  touch main_test.txt
+  982  git status
+  983  git add .
+  984  git status
+  985  git commit -m "Task2"
+  986  git checkout -b develop
+  987  git checkout develop
+  988  touch develop_test.txt
+  989  git add .
+  990  git status
+  991  git commit -m "Task3"
+  992  nano develop_test.txt
+  993  git status
+  994  git add .
+  995  git commit -m "Task3.8"
+  996  git checkout main
+  997   git merge develop
+  998  git status
+  999  git branch
+ 1000  git log
+ 1001  cd Desktop
+ 1002  cd HW
+ 1003  cd HW_10
+ 1004  git status
+ 1005  git branch
